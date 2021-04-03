@@ -3,7 +3,7 @@
 ## Introduction
   In this project,we will learn the dynamics of the Quadcopter and the implementation of control algorithms on it.
 ## Table of contents
-  * [Study of Quadcopter Dynamics and 3D rotations.](#
+  * [Study of Quadcopter Dynamics and 3D rotations.](https://github.com/Ayush1285/Robust_Quadcopter_Control#study-of-quadcopter-dynamics-and-3d-rotations)
   * Altitude control of a 1D Quadcopter.
   * 2D trajectory tracking using PID controller.
   * 3D trajectory tracking using PID controller.
