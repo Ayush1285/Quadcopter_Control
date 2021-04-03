@@ -3,11 +3,11 @@
 ## Introduction
   In this project,we will learn the dynamics of the Quadcopter and the implementation of control algorithms on it.
 ## Table of contents
-  * [Study of Quadcopter Dynamics and 3D rotations.](#Study-of-Quadcopter-Dynamics-and-3D-rotations)
-  * Altitude control of a 1D Quadcopter.
-  * 2D trajectory tracking using PID controller.
-  * 3D trajectory tracking using PID controller.
-  * Simulink modelling of Quadcopter.
+  * [Study of Quadcopter Dynamics and 3D rotations](#Study-of-Quadcopter-Dynamics-and-3D-rotations)
+  * [Altitude control of a 1D Quadcopter](#Altitude-control-of-a-1D-Quadcopter)
+  * [2D trajectory tracking using PID controller](#2D-trajectory-tracking-using-PID-controller)
+  * [3D trajectory tracking using PID controller](#3D-trajectory-tracking-using-PID-controller)
+  * [Simulink modelling of Quadcopter](#Simulink-modelling-of-the-Quadcopter)
   * Linear Quadratic Regulator(LQR) on the Quadcopter.
   * Comparison of PID and LQR control system on the Quadcopter.
 ## Study of Quadcopter Dynamics and 3D rotations
