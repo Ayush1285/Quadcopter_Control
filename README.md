@@ -56,4 +56,4 @@
 ## Simulink modelling of the Quadcopter
   * Dynamics Study of the Quadcopter according to the paper [Modelling and Stabilizing Control laws design based on Backstepping for an UAV type Quadrotor](https://drive.google.com/file/d/1x7zfYDEAd4OGHKVt8xIQ0uwxMXA-TSl7/view?usp=sharing)
   * Linearized the equations around hovering point.
-  * Developed the linear simulink model of Quadcopter.[Simulink Model](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Quadrotor_linearized.slx)
+  * Developed the linear simulink model of Quadcopter.[[Simulink Model](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Quadrotor_linearized.slx)]
