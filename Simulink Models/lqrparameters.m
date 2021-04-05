@@ -129,4 +129,3 @@ simin2 = [time,ZPOS];
 simin3 = [time,XVEL];
 simin4 = [time,YVEL];
 simin5 = [time,ZVEL];
-plot(time,xposition)
