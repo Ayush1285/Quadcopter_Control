@@ -8,7 +8,8 @@
   * [2D trajectory tracking using PID controller](#2D-trajectory-tracking-using-PID-controller)
   * [3D trajectory tracking using PID controller](#3D-trajectory-tracking-using-PID-controller)
   * [Simulink modelling of Quadcopter](#Simulink-modelling-of-the-Quadcopter)
-  * Linear Quadratic Regulator(LQR) on the Quadcopter.
+  * PID on the Quadcopter model
+  * Linear Quadratic Regulator(LQR) on the Quadcopter
   * Comparison of PID and LQR control system on the Quadcopter.
 ## Study of Quadcopter Dynamics and 3D rotations
   Following resources were used for dynamics study:
@@ -57,3 +58,9 @@
   * Dynamics Study of the Quadcopter according to the paper [Modelling and Stabilizing Control laws design based on Backstepping for an UAV type Quadrotor](https://drive.google.com/file/d/1x7zfYDEAd4OGHKVt8xIQ0uwxMXA-TSl7/view?usp=sharing)
   * Linearized the equations around hovering point.
   * Developed the linear simulink model of Quadcopter.[[Simulink Model](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Quadrotor_linearized.slx)]
+  * 
+## PID on the Quadcopter model
+  Our goal was to implement PID and LQR controller on the Simulink model of Quadcopter and compare them
+  
+  Minimum Snap trajectory following:
+  ![](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Results/PID%20Controller.png)
