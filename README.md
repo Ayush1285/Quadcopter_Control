@@ -63,4 +63,4 @@
   Our goal was to implement PID and LQR controller on the Simulink model of Quadcopter and compare them
   
   Minimum Snap trajectory following:
-  ![](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Results/PID%20Controller.png)
+  ![](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Results/PID.png)
