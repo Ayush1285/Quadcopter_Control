@@ -62,17 +62,17 @@
 ## PID on the Quadcopter model
   Our goal was to implement PID and LQR controller on the Simulink model of Quadcopter and compare them
   
-  **Minimum Snap trajectory following(Desired Path: Yellow, Obtained Output: Blue)
+  **Minimum Snap trajectory following(Desired Path: Yellow, Obtained Output: Blue)**
   ![](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Results/PID.png)
   
 ## Linear Quadratic Regulator(LQR) on the Quadcopter
 
-  **Minimum Snap trajectory following(Desired Path: Yellow, Obtained Output: Blue)
+  **Minimum Snap trajectory following(Desired Path: Yellow, Obtained Output: Blue)**
   ![](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Results/LQR.png)
   
 ## Comparison of PID and LQR control system on the Quadcopter
   Here, we will compare error during the trajectory tracking
   
-  **Error Plots(LQR: Yellow, PID: Blue)
+  **Error Plots(LQR: Yellow, PID: Blue)**
   ![](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Results/LQR%20vs%20PID.png)
   
