@@ -8,9 +8,9 @@
   * [2D trajectory tracking using PID controller](#2D-trajectory-tracking-using-PID-controller)
   * [3D trajectory tracking using PID controller](#3D-trajectory-tracking-using-PID-controller)
   * [Simulink modelling of Quadcopter](#Simulink-modelling-of-the-Quadcopter)
-  * PID on the Quadcopter model
-  * Linear Quadratic Regulator(LQR) on the Quadcopter
-  * Comparison of PID and LQR control system on the Quadcopter.
+  * [PID on the Quadcopter model](#PID-on-the-Quadcopter-model)
+  * [Linear Quadratic Regulator(LQR) on the Quadcopter](#Linear-Quadratic-Regulator(LQR)-on-the-Quadcopter)
+  * [Comparison of PID and LQR control system on the Quadcopter](#Comparison-of-PID-and-LQR-control-system-on-the-Quadcopter)
 ## Study of Quadcopter Dynamics and 3D rotations
   Following resources were used for dynamics study:
   * [Robotics: Aerial Robotics, by UPenn](https://www.coursera.org/learn/robotics-flight?=)
@@ -62,5 +62,17 @@
 ## PID on the Quadcopter model
   Our goal was to implement PID and LQR controller on the Simulink model of Quadcopter and compare them
   
-  Minimum Snap trajectory following:
+  **Minimum Snap trajectory following(Desired Path: Yellow, Obtained Output: Blue)
   ![](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Results/PID.png)
+  
+## Linear Quadratic Regulator(LQR) on the Quadcopter
+
+  **Minimum Snap trajectory following(Desired Path: Yellow, Obtained Output: Blue)
+  ![](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Results/LQR.png)
+  
+## Comparison of PID and LQR control system on the Quadcopter
+  Here, we will compare error during the trajectory tracking
+  
+  **Error Plots(LQR: Yellow, PID: Blue)
+  ![](https://github.com/Ayush1285/Robust_Quadcopter_Control/blob/main/Simulink%20Models/Results/LQR%20vs%20PID.png)
+  
