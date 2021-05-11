@@ -1,4 +1,4 @@
-# Robust_Quadcopter_Control
+# Quadcopter_Control
 
 ## Introduction
   In this project,we will learn the dynamics of the Quadcopter and the implementation of control algorithms on it.
