@@ -34,9 +34,9 @@ Goal was to track the given three dimensional trajectories while minimising the 
 
 ## Graphs
 ### Minimum Snap Trajectory following using PID
-x position(current vs desired) <img src="Simulink_Models/Results/xpositionpid.jpg" heigth="10"> | y position(current vs desired) <img src="Simulink_Models/Results/ypositionpid.jpg">
+<img src="Simulink_Models/Results/xpositionpid.jpg" heigth="10"> | <img src="Simulink_Models/Results/ypositionpid.jpg">
 --------------------------------------------------------|-----------------------
-z position(current vs desired) <img src="Simulink_Models/Results/zpositionpid.jpg">  | 
+<img src="Simulink_Models/Results/zpositionpid.jpg">  | 
 
 ## Simulink modelling of the Quadcopter
   * Dynamics Study of the Quadcopter according to the paper [Modelling and Stabilizing Control laws design based on Backstepping for an UAV type Quadrotor](https://drive.google.com/file/d/1x7zfYDEAd4OGHKVt8xIQ0uwxMXA-TSl7/view?usp=sharing)
