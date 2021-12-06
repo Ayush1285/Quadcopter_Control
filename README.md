@@ -34,8 +34,9 @@ Goal was to track the given three dimensional trajectories while minimising the 
 
 ## Graphs
 ### Minimum Snap Trajectory following using PID
-![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/Simulink_Models/Results/xpositionpid.jpg) ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/Simulink_Models/Results/ypositionpid.jpg)
-
+without slope <img src="Simulink_Models/Results/xpositionpid.jpg" heigth="10"> | positive slope <img src="Simulink_Models/Results/ypositionpid.jpg">
+--------------------------------------------------------|-----------------------
+negative slope <img src="Simulink_Models/Results/zpositionpid.jpg">  | input velocities were <br /> v = 20 m/s  0 <t < 50 <br /> v = 40 m/s  50 <t < 300 <br /> v = 70 m/s  t > 300
 
 ## Simulink modelling of the Quadcopter
   * Dynamics Study of the Quadcopter according to the paper [Modelling and Stabilizing Control laws design based on Backstepping for an UAV type Quadrotor](https://drive.google.com/file/d/1x7zfYDEAd4OGHKVt8xIQ0uwxMXA-TSl7/view?usp=sharing)
