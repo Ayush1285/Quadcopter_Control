@@ -1,7 +1,7 @@
 # Quadcopter_Control
 
 ## Introduction
-  In this project,we will learn the dynamics of the Quadcopter and the implementation of control algorithms on it.
+  In this project,we will learn the dynamics of the Quadcopter and implement control algorithms on it.
 ## Table of contents
   * [Study of Quadcopter Dynamics and 3D rotations](#Study-of-Quadcopter-Dynamics-and-3D-rotations)
   * [Altitude control of a 1D Quadcopter](#Altitude-control-of-a-1D-Quadcopter)
