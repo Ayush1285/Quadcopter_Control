@@ -34,9 +34,8 @@ Goal was to track the given three dimensional trajectories while minimising the 
 
 ## Graphs
 ### Minimum Snap Trajectory following using PID
-<img src="Simulink_Models/Results/xpositionpid.jpg" width="10" height="10">
-<img src="Simulink_Models/Results/ypositionpid.jpg" width="10" height="10">
-<img src="Simulink_Models/Results/zpositionpid.jpg">
+<img src="Simulink_Models/Results/xpositionpid.jpg" width="10" height="10"/>
+<img src="Simulink_Models/Results/ypositionpid.jpg" width="10" height="10"/>
 
 
 ## Simulink modelling of the Quadcopter
