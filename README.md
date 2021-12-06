@@ -43,6 +43,11 @@ Goal was to track the given three dimensional trajectories while minimising the 
 --------------------------------------------------------|-----------------------
 <img src="Simulink_Models/Results/zpositionlqr.jpg">  | 
 
+### Comparison of Trajectory tracking error (LQR vs PID)
+<img src="Simulink_Models/Results/xposerror.jpg" heigth="10"> | <img src="Simulink_Models/Results/yposerror.jpg">
+--------------------------------------------------------|-----------------------
+<img src="Simulink_Models/Results/zposerror.jpg">  | 
+
 ## Simulink modelling of the Quadcopter
   * Dynamics Study of the Quadcopter according to the paper [Modelling and Stabilizing Control laws design based on Backstepping for an UAV type Quadrotor](https://drive.google.com/file/d/1x7zfYDEAd4OGHKVt8xIQ0uwxMXA-TSl7/view?usp=sharing)
   * Linearized the equations around hovering point.
