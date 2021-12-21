@@ -6,9 +6,12 @@
 ## 2D trajectory tracking using PID controller
 Goal was to track the given two dimensional trajectories while minimising the position error.
 
-Hover at height 1 m ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/1-D_Control/Results/heightcontrol.gif) | Line Trajectory(top view) ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajline.gif)
-----------------|--------------
-Sine Trajectory ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajsine.gif) | Diamond Trajectory ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajdiamond.gif)
+Hover at height 1 m    | Line Trajectory(top view)
+:---------------------:|:------------------------:
+![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/1-D_Control/Results/heightcontrol.gif) | ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajline.gif)
+Sine Trajectory | Diamond Trajectory
+:--------------------------:|:--------------------:
+![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajsine.gif) | ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajdiamond.gif)
 
 ## 3D trajectory tracking using PID controller
 Goal was to track the given three dimensional trajectories while minimising the position error.
