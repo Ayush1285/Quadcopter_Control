@@ -7,9 +7,9 @@
 Goal was to track the given two dimensional trajectories while minimising the position error.
 ### Line Trajectory
 
-#### Hover at height 1 m ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/1-D_Control/Results/heightcontrol.gif) | ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajline.gif)
+Hover at height 1 m ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/1-D_Control/Results/heightcontrol.gif) | ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajline.gif)
 ----------------|--------------
-![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajsine.gif)
+![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajsine.gif) | 
 ### Diamond Trajectory
 
 ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajdiamond.gif)
