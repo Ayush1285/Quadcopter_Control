@@ -14,7 +14,7 @@ Sine Trajectory ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-
 Goal was to track the given three dimensional trajectories while minimising the position error.
 
 Helix Trajectory ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/3-D_Control/Results/trajhelix.gif) | Min. Snap Trajectory ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/3-D_Control/Results/trajminsnap.gif)
-
+----------------|---------------
 
 ## Graphs
 ### Minimum Snap Trajectory following using PID
