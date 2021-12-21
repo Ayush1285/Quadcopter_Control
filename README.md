@@ -12,11 +12,8 @@
 Goal was to track the given two dimensional trajectories while minimising the position error.
 ### Line Trajectory
 
-![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajline.gif)
-
-### Sine Trajectory
-
-![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajsine.gif)
+![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajline.gif) | ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajsine.gif)
+----------------|--------------
 
 ### Diamond Trajectory
 
