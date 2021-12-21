@@ -9,6 +9,7 @@ Goal was to track the given two dimensional trajectories while minimising the po
 Hover at height 1 m    | Line Trajectory(top view)
 :---------------------:|:------------------------:
 ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/1-D_Control/Results/heightcontrol.gif) | ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajline.gif)
+
 Sine Trajectory | Diamond Trajectory
 :--------------------------:|:--------------------:
 ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajsine.gif) | ![](https://github.com/Ayush1285/Quadcopter_Control/blob/main/2-D_Control/Results/trajdiamond.gif)
